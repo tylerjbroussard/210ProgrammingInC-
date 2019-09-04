@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28606.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 09", "Assignment 09.csproj", "{489E848F-0C44-4ABE-A88E-784E73A72F4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodLockerFramework", "..\FoodLockerFramework\FoodLockerFramework.csproj", "{5524D106-F077-43C6-A504-A64227CD9E64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{489E848F-0C44-4ABE-A88E-784E73A72F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489E848F-0C44-4ABE-A88E-784E73A72F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489E848F-0C44-4ABE-A88E-784E73A72F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489E848F-0C44-4ABE-A88E-784E73A72F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5524D106-F077-43C6-A504-A64227CD9E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5524D106-F077-43C6-A504-A64227CD9E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5524D106-F077-43C6-A504-A64227CD9E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5524D106-F077-43C6-A504-A64227CD9E64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB1DCA55-DF9E-438C-9F79-097BA194FE1B}
+	EndGlobalSection
+EndGlobal

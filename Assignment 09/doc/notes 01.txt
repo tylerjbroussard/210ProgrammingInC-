@@ -1,0 +1,27 @@
+﻿abstract classes
+
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract
+
+virtual classes
+
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/virtual
+
+override
+
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/override
+
+new void Class
+
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/new
+
+base 
+
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/base
+
+interface
+
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/interface
+
+internal
+
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/internal

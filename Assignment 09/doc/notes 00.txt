@@ -1,0 +1,64 @@
+﻿Windows Forms documents
+
+https://docs.microsoft.com/en-us/dotnet/framework/winforms/index
+
+https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.listviewitem.listviewsubitem?view=netframework-4.7.2
+
+https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.groupbox?view=netframework-4.7.2
+
+
+windows forms control
+
+https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/
+
+
+menustrip 
+
+https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.menustrip?view=netframework-4.7.2
+
+common dialog box
+
+https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.commondialog?view=netframework-4.7.2
+
+form MDI
+
+-	parent
+https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.form.mdiparent?view=netframework-4.7.2#System_Windows_Forms_Form_MdiParent
+
+-	child
+https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.form.mdichildren?view=netframework-4.7.2#System_Windows_Forms_Form_MdiChildren
+
+-	child event
+https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.form.mdichildactivate?view=netframework-4.7.2
+
+Regular Expressions
+
+https://docs.microsoft.com/en-us/dotnet/api/system.text.regularexpressions.regex?view=netframework-4.7.2
+
+Multiline textbox
+
+https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.textbox?view=netframework-4.7.2#examples
+
+
+using directive
+
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-directive
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/namespaces/using-namespaces
+
+common i/o tasks
+
+https://docs.microsoft.com/en-us/dotnet/standard/io/common-i-o-tasks?view=netframework-4.7.2
+
+https://docs.microsoft.com/en-us/dotnet/api/system.io.file?redirectedfrom=MSDN&view=netframework-4.7.2
+
+https://docs.microsoft.com/en-us/dotnet/api/system.io.fileinfo?redirectedfrom=MSDN&view=netframework-4.7.2
+
+https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/how-to-save-files-using-the-savefiledialog-component
+
+active MDI child
+
+https://docs.microsoft.com/en-us/dotnet/framework/winforms/advanced/how-to-determine-the-active-mdi-child
+
+this is a great regular expressions builder 
+
+https://txt2re.com/
